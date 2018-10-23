@@ -1,4 +1,5 @@
-# React Bootcamp 2018 - Spotify Client
+# React Bootcamp 2018 - Resistencia Chaco
+# Spotify Client
 
 ## Set up
 
